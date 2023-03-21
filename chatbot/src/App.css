@@ -1,0 +1,22 @@
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 100vh;
+  background-color: rgb(240, 240, 240);
+}
+.mine{
+  background-color: red;
+  color: white;
+  border-radius: 25px;
+  font-size: 14px;
+  padding: 0 10px;
+}
+.gpt{
+  background-color: blue;
+  color: white;
+  border-radius: 25px;
+  font-size: 14px;
+  padding: 0 10px;
+}
